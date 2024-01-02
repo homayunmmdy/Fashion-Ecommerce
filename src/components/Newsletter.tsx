@@ -9,7 +9,7 @@ const Newsletter = () => {
       <p className={styles.desc}>Get timely updates from your favorite products.</p>
       <div className={styles.InputContainer}>
         <input className={styles.Input} placeholder='Your Email' />
-        <button className={styles.send}><GrSend /></button>
+        <button type='button' className={styles.send}><GrSend /></button>
       </div>
     </div>
   )
