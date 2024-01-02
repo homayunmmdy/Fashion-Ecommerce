@@ -21,7 +21,8 @@ const Slider = () => {
         onSwiper={(swiper) => console.log(swiper)}
       >
         {sliderItems.map(item => (
-                  <SwiperSlide key={item.id} className={styles.Slide}>
+                  <SwiperSlide key={item.id} >
+                    <div className={styles.Slide}>
                     <div className={styles.ImgSlideContainer}>
                       <img className={styles.ImgSlide} alt={item.title} title={item.title} src={item.img} />
                     </div>
@@ -29,6 +30,7 @@ const Slider = () => {
                       <h2 className={styles.titleSlide}>{item.title}</h2>
                       <p className={styles.descriptionSlie}>{item.desc}</p>
                       <button className={styles.shopNow}>SHOP NOW</button>
+                    </div>
                     </div>
                     </SwiperSlide>
 
