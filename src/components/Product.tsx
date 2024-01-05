@@ -11,6 +11,7 @@ const Product = ({item}) => {
         <div className={styles.Icon}><FaSearch/></div>
         <div className={styles.Icon}><FaRegHeart/></div>
       </div>
+      <h2 className={styles.Price}>{item.price}</h2>
     </div>
   )
 }

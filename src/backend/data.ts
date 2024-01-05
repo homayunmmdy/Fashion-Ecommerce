@@ -45,33 +45,41 @@ export const sliderItems = [
     {
       id:1,
       img:"/images/Products/1.png",
+      price : 100,
     },
     {
       id:2,
       img:"/images/Products/2.png",
+      price : 120,
     },
     {
       id:3,
       img:"/images/Products/3.png",
+      price : 130,
     },
     {
       id:4,
       img:"/images/Products/4.png",
+      price : 49,
     },
     {
       id:5,
       img:"/images/Products/5.png",
+      price : 10,
     },
     {
       id:6,
       img:"/images/Products/6.png",
+      price : 54,
     },
     {
       id:7,
       img:"/images/Products/7.png",
+      price : 699,
     },
     {
       id:8,
       img:"/images/Products/8.png",
+      price : 88,
     },
   ]
