@@ -9,6 +9,7 @@
 
 .Slide {
     display: flex;
+    height: 100%;
     background: rgb(224, 219, 219);
 }
 
