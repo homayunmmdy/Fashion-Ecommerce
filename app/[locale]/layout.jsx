@@ -3,6 +3,7 @@ import "./Font.css";
 import "./globals.css";
 import SiteConfig from "@/app/[locale]/config/site"
 import { useLocale } from "next-intl";
+import Navbar from "./components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
@@ -19,6 +20,7 @@ export default function RootLayout({ children , params }) {
   return (
     <html lang={locale}  dir={locale === 'fa' ? 'rtl' : 'ltr'}>
       <body className={inter.className}>
+        <Navbar />
         {children}
       </body>
     </html>
