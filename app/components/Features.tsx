@@ -15,7 +15,6 @@ const Features = () => {
                             herbs</button>
                     </div>
                 </div>
-
                 <div className="container mx-auto px-5 lg:px-0">
                     <div className="isotope-container mt-12 relative h-52" >
 
@@ -23,8 +22,8 @@ const Features = () => {
                             <div className="item love lg:me-28 absolute left-0 top-0">
                                 <div className="featured-post py-2">
                                     <span className="blog-date uppercase">dating and Relationships</span>
-                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500 "><a href="blog-single.html" className="blog-link capitalize">How 'Weak
-                                        Ties' Can Strengthen Our
+                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500 "><a href="#" className="blog-link capitalize">How Weak
+                                        Ties Can Strengthen Our
                                         Relationships</a></h3>
                                 </div>
                                 <hr className="my-4" />
@@ -32,8 +31,8 @@ const Features = () => {
                             <div className="item love lg:me-28 absolute left-0 top-[105px]">
                                 <div className="featured-post py-2 ">
                                     <span className="blog-date uppercase">dating and Relationships</span>
-                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="blog-single.html" className="blog-link capitalize">How 'Weak
-                                        Ties' Can Strengthen Our
+                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="#" className="blog-link capitalize">How Weak
+                                        Ties Can Strengthen Our
                                         Relationships</a></h3>
                                 </div>
                                 <hr className="my-4 " />
@@ -41,7 +40,7 @@ const Features = () => {
                             <div className="item yoga lg:me-28 absolute left-0 top-[210px] hidden">
                                 <div className="featured-post py-2">
                                     <span className="blog-date uppercase">dating and Relationships</span>
-                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="blog-single.html" className="blog-link capitalize">What It's
+                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="#" className="blog-link capitalize">What It is
                                         Really Like to Date While
                                         Anxious </a></h3>
                                 </div>
@@ -50,7 +49,7 @@ const Features = () => {
                             <div className="item yoga lg:me-28 absolute left-0 top-[315px] hidden">
                                 <div className="featured-post py-2 ">
                                     <span className="blog-date uppercase">dating and Relationships</span>
-                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="blog-single.html" className="blog-link capitalize">What It's
+                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="#" className="blog-link capitalize">What It is
                                         Really Like to Date While
                                         Anxious </a></h3>
                                 </div>
@@ -59,7 +58,7 @@ const Features = () => {
                             <div className="item recipes lg:me-28 absolute left-0 top-[420px] hidden">
                                 <div className="featured-post py-2">
                                     <span className="blog-date uppercase">dating and Relationships</span>
-                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="blog-single.html" className="blog-link capitalize">Benefits
+                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="#" className="blog-link capitalize">Benefits
                                         to Having Much Older
                                         Friends than you</a></h3>
                                 </div>
@@ -68,7 +67,7 @@ const Features = () => {
                             <div className="item recipes lg:me-28 absolute left-0 top-[525px] hidden">
                                 <div className="featured-post py-2 ">
                                     <span className="blog-date uppercase">dating and Relationships</span>
-                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="blog-single.html" className="blog-link capitalize">Benefits
+                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="#" className="blog-link capitalize">Benefits
                                         to Having Much Older
                                         Friends than you</a></h3>
                                 </div>
@@ -77,7 +76,7 @@ const Features = () => {
                             <div className="item naturalherbs lg:me-28 absolute left-0 top-[630px] hidden">
                                 <div className="featured-post py-2">
                                     <span className="blog-date uppercase">dating and Relationships</span>
-                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="blog-single.html" className="blog-link capitalize">How Often
+                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="#" className="blog-link capitalize">How Often
                                         You Should Wash Your
                                         Hair in winter</a></h3>
                                 </div>
@@ -86,17 +85,13 @@ const Features = () => {
                             <div className="item naturalherbs lg:me-28 absolute left-0 top-[735px] hidden">
                                 <div className="featured-post py-2 ">
                                     <span className="blog-date uppercase">dating and Relationships</span>
-                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="blog-single.html" className="blog-link capitalize">How Often
+                                    <h3 className="font-heading text-2xl font-normal hover:text-gray-500"><a href="#" className="blog-link capitalize">How Often
                                         You Should Wash Your
                                         Hair in winter</a></h3>
                                 </div>
                                 <hr className="my-4 " />
                             </div>
                         </div>
-
-
-
-
                     </div>
                 </div>
             </section>

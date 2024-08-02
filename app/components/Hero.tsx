@@ -6,7 +6,7 @@ const Hero = () => {
             <section id="hero" className="relative z-0	min-h-[520px] jarallax-img title-img bg-no-repeat w-full"
             style={{backgroundImage: "url(hero-img.png)"}}
             >
-                <div className="py-80 xl:px-96 text-center">
+                <div className="py-32 xl:px-28 text-center">
                     <h2 className="font-heading text-5xl sm:text-6xl lg:text-8xl font-thin">About self love &amp; Relationships</h2>
                     <p className="text-xl sm-text-2xl lg:text-4xl xl:px-40 py-10 text-stone-700">Hi, I’m a Fitness enthusiast eager to
                         share everything that i
