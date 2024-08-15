@@ -13,11 +13,10 @@ This repository contains a single-page fashion e-commerce template built using R
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
-You can view a live demo of this template [here](#).
+You can view a live demo of this template [here](https://fashion-ecommerce-omega.vercel.app/).
 
 ## Features
 
